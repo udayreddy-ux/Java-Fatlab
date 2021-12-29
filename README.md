@@ -1,0 +1,2 @@
+# Java-Fatlab
+According to Indian income tax rules a man can have 1-100gms of gold, unmarried woman can have 1-250gms of gold and married woman can have 1-500gms of gold without income proof. Write a Java program to enter the category of person (man-m, unmarried woman-u, married woman-w) and gms of gold they have. If the value is not in their range throw a custom exception called IncomeTaxException. The exception should display a string “You are having taxable gold”.
